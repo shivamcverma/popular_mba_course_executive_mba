@@ -274,9 +274,35 @@
         "important_exam_dates": {
           "upcoming": [
             {
-              "date": "04 Jan ' 26",
-              "event": "XAT 2026 Exam"
+              "date": "13 Jan ' 26 - 17 Jan ' 26",
+              "event": "NMAT 2025 Exam Date (Additional Window) ONGOING"
             },
+            {
+              "date": "10 Jan ' 26 - 12 Feb ' 26",
+              "event": "MAH MBA CET 2026 registration ONGOING"
+            },
+            {
+              "date": "25 Jan ' 26",
+              "event": "CMAT 2026 exam"
+            },
+            {
+              "date": "Jan ' 26",
+              "event": "XAT 2026 Cut Offs Release TENTATIVE"
+            },
+            {
+              "date": "Jan ' 26 - Feb ' 26",
+              "event": "TANCET registration window TENTATIVE"
+            },
+            {
+              "date": "23 Feb ' 26",
+              "event": "MAT Feb 2026 PBT Registration last date"
+            },
+            {
+              "date": "01 Mar ' 26",
+              "event": "MAT Feb 2026 PBT"
+            }
+          ],
+          "past": [
             {
               "date": "05 Jan ' 26 - 10 Jan ' 26",
               "event": "NMAT 2025 Registration (Additional Window)"
@@ -286,34 +312,8 @@
               "event": "NMAT 2025 Scheduling (Additional Window)"
             },
             {
-              "date": "Jan ' 26",
-              "event": "XAT 2026 answer key out TENTATIVE"
-            },
-            {
-              "date": "13 Jan ' 26 - 17 Jan ' 26",
-              "event": "NMAT 2025 Exam Date (Additional Window)"
-            },
-            {
-              "date": "25 Jan ' 26",
-              "event": "CMAT 2026 exam"
-            },
-            {
-              "date": "Jan ' 26",
-              "event": "XAT 2026 Cut Offs Release TENTATIVE"
-            }
-          ],
-          "past": [
-            {
               "date": "27 Dec ' 25 - 28 Dec ' 25",
               "event": "IBSAT 2025 Exam Date"
-            },
-            {
-              "date": "20 Dec ' 25",
-              "event": "SNAP 2025 session 3"
-            },
-            {
-              "date": "14 Dec ' 25",
-              "event": "SNAP 2025 session 2"
             }
           ]
         },
@@ -596,20 +596,6 @@
             "reviews": "4 reviews"
           },
           {
-            "course_name": "Executive Master of Business Administration (EMBA)",
-            "course_url": "https://www.shiksha.com/university/christ-university-bangalore-421/course-online-executive-master-of-business-administration-emba-264285",
-            "offered_by": "Offered By Christ University",
-            "rating": "4.3",
-            "reviews": "4 reviews"
-          },
-          {
-            "course_name": "Executive Master of Business Administration (EMBA)",
-            "course_url": "https://www.shiksha.com/college/balaji-institute-of-modern-management-sri-balaji-university-tathawade-pune-441/course-executive-master-of-business-administration-emba-2171",
-            "offered_by": "Offered By Balaji Institute of Modern Management, Sri Balaji University",
-            "rating": "4.3",
-            "reviews": "15 reviews"
-          },
-          {
             "course_name": "Integrated BBA MBA",
             "course_url": "https://www.shiksha.com/university/allahabad-university-3574/course-integrated-bba-mba-1116897",
             "offered_by": "Offered By Allahabad University",
@@ -643,6 +629,20 @@
             "offered_by": "Offered By Xavier Institute of Management, XIM University",
             "rating": "4.0",
             "reviews": "5 reviews"
+          },
+          {
+            "course_name": "Executive Master of Business Administration (EMBA)",
+            "course_url": "https://www.shiksha.com/college/school-of-business-and-management-christ-university-hosur-road-bangalore-34196/course-online-executive-master-of-business-administration-emba-264285",
+            "offered_by": "Offered By School of Business and Management, Christ University",
+            "rating": "4.3",
+            "reviews": "4 reviews"
+          },
+          {
+            "course_name": "Executive Master of Business Administration (EMBA)",
+            "course_url": "https://www.shiksha.com/college/symbiosis-institute-of-management-studies-symbiosis-international-pune-khadki-21359/course-online-executive-master-of-business-administration-emba-406957",
+            "offered_by": "Offered By Symbiosis Institute of Management Studies, Symbiosis International, Pune",
+            "rating": "4.3",
+            "reviews": "7 reviews"
           },
           {
             "course_name": "Executive Post Graduate Diploma in Management (EPGDM)",
@@ -890,7 +890,7 @@
           "note": ""
         }
       ],
-      "title": "Executive MBA Syllabus & Subjects List 2025: Download Semester-wise Syllabus PDF"
+      "title": "Executive MBA Syllabus & Subjects List 2026: Download Semester-wise Syllabus PDF"
     },
     "career": {
       "last_updated": "Dec 6, 2024 05:51 IST",
@@ -1734,7 +1734,7 @@
           "note": "Source - Multiple external/official sites, data may vary."
         }
       ],
-      "title": "E-MBA Fees 2025: Check College-wise Fees Structure & Cost"
+      "title": "E-MBA Fees 2026: Check College-wise Fees Structure & Cost"
     },
     "EMBA_for_defence_personal": {
       "Executive MBA": {
@@ -1827,12 +1827,20 @@
               "answer": "Yes, Management Development Institute is good for its Executive PGDM courses. MDI offers several Executive PGDM courses including PGDM-BM, PGDM-BA and PGDM-PPM. The course duration of all these varies from 18 months to two years . MDI Gurgaon PGDM-BM programme is accredited by AMBA, the Association of MBAs (UK). Admission to these courses is granted based on merit in accepted exams."
             },
             {
+              "question": "Is it worth pursuing MBA at IIM Bangalore?",
+              "answer": "IIM Bangalore flagship course is MBA , which is available across 10 electives, including Decision Sciences, Economics and Social Sciences, and Entrepreneurship among others. The duration of the courses ranges from 2 years to 5 years. Pursuing this course means that students will have a secured future. MBA students can become Managers, or can go for various other job profiles."
+            },
+            {
               "question": "What is it like to study MBA at IIM Bangalore?",
               "answer": "IIM Bangalore is known for its MBA or PGP course. The two-year full-time residential programme is designed to equip students to take on leadership roles in a complex and dynamic global scenario. PGP is one of the most highly placed courses in global rankings and is currently ranked 31st in the Financial Times ranking 2022. At the national level, NIRF ranked IIM-B at the second position for Management education. In terms of placements, IIM-B welcomed a total of 137 companies during IIM Bangalore MBA (PGP and PGP Business Analytics) placements 2022 that together imparted over 660 offers. The average package offered during MBA placements 2022 also stood at INR 33.82 LPA. For more details, check out the verified student reviews to know what others say about IIM Bangalore MBA course ."
             },
             {
-              "question": "What is the IIM Bangalore PGP course all about?",
-              "answer": "Post Graduate Programme or PGP offered by IIM Bangalore is a two-year full-time residential course. Candidates pursuing PGP from IIM Bangalore are awarded an MBA degree. The programme lasts for six trimesters, spread over two years, with a summer project inclusive. The course is offered in two specialisations, namely General and Business Analytics. The duration of the course is spread over six trimesters across two years, with a summer project intermediary. The PGP students of IIM Bangalore are required to earn a minimum of 45 credits and a maximum of 51 credits in elective courses over three terms in their second year. The electives cover a wide array of topics. Mentioned below is a sample list of the electives offered here: Social Entrepreneurship Infrastructure Development PPPs and Regulation Business Analytics and Intelligence Spreadsheet Model-Business Decision Current Economic Scenario; Indian Economy and Policy Matters for Business Global Securities Markets, etc."
+              "question": "Why choose IIM Bangalore executive MBA course?",
+              "answer": "With an average package of INR 33.07 LPA and an NIRF ranking of 2 for its Management courses, E-MBA from IIMs is considered one of the best choices for working professionals who want to improve their knowledge and education level by pursuing a Management degree. Additionally, IIM Bangalore has seen an improving trend in the average package over the years. In 2022, the average package stood at INR 30.09 LPA and INR 26.08 LPA in 2021."
+            },
+            {
+              "question": "Is MDI Gurgaon good for MBA?",
+              "answer": "Yes, Management Development Institute is very good for its MBA/PGDM courses. The Management institute is ranked 13 in the Management category by the National Institutional Ranking Framework (NIRF) 2023. Talking about the placement, the average package offered for the PGDM & PGDM IB, PGDM HRM and PGDM BM placements 2023 stood at INR 27.67 LPA, INR 26.42 LPA and INR 24.46 LPA, respectively."
             }
           ],
           "related_colleges": [],
@@ -1920,7 +1928,13 @@
                 ]
               }
             ],
-            "images": [],
+            "images": [
+              {
+                "src": "https://images.shiksha.com/mediadata/images/articles/1741167458phpr0joBD.jpeg",
+                "alt": "",
+                "caption": ""
+              }
+            ],
             "key_points": [
               "Enhancing promotion prospects",
               "higher salaries",
@@ -1929,6 +1943,7 @@
               "Indian Institutes of Management (IIMs)",
               "has been noticed, according to a study",
               "60% of working professionals",
+              "Staying updated about the latest educational events is just a click away",
               "Rising Demand Among Mid to Senior-Level Professionals",
               "mid and senior-level professionals",
               "5-7 years of work experience",
@@ -1957,12 +1972,12 @@
                 "url": "https://www.shiksha.com/news/mba-iim-kashipur-admission-2025-deadline-for-phd-doctoral-programmes-extended-until-mar-15-blogId-192266"
               },
               {
-                "title": "JEE Main City Intimation Slip",
-                "url": "https://www.shiksha.com/engineering/articles/jee-main-city-intimation-slip-blogId-215172"
+                "title": "VITEEE 2026",
+                "url": "https://www.shiksha.com/engineering/articles/viteee-2026-exam-blogId-208780"
               },
               {
-                "title": "JEE Main City Intimation Slip",
-                "url": "https://www.shiksha.com/engineering/articles/jee-main-city-intimation-slip-blogId-215172"
+                "title": "VITEEE 2026",
+                "url": "https://www.shiksha.com/engineering/articles/viteee-2026-exam-blogId-208780"
               }
             ]
           }
