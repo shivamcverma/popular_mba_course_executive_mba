@@ -274,10 +274,6 @@
         "important_exam_dates": {
           "upcoming": [
             {
-              "date": "13 Jan ' 26 - 17 Jan ' 26",
-              "event": "NMAT 2025 Exam Date (Additional Window)"
-            },
-            {
               "date": "10 Jan ' 26 - 12 Feb ' 26",
               "event": "MAH MBA CET 2026 registration ONGOING"
             },
@@ -294,6 +290,10 @@
               "event": "TANCET registration window TENTATIVE"
             },
             {
+              "date": "Feb ' 26",
+              "event": "IPMAT 2026 Application Form Release TENTATIVE"
+            },
+            {
               "date": "23 Feb ' 26",
               "event": "MAT Feb 2026 PBT Registration last date"
             },
@@ -304,16 +304,16 @@
           ],
           "past": [
             {
+              "date": "13 Jan ' 26 - 17 Jan ' 26",
+              "event": "NMAT 2025 Exam Date (Additional Window)"
+            },
+            {
               "date": "05 Jan ' 26 - 10 Jan ' 26",
               "event": "NMAT 2025 Registration (Additional Window)"
             },
             {
               "date": "05 Jan ' 26 - 10 Jan ' 26",
               "event": "NMAT 2025 Scheduling (Additional Window)"
-            },
-            {
-              "date": "27 Dec ' 25 - 28 Dec ' 25",
-              "event": "IBSAT 2025 Exam Date"
             }
           ]
         },
@@ -1843,87 +1843,7 @@
               "answer": "Yes, Management Development Institute is very good for its MBA/PGDM courses. The Management institute is ranked 13 in the Management category by the National Institutional Ranking Framework (NIRF) 2023. Talking about the placement, the average package offered for the PGDM & PGDM IB, PGDM HRM and PGDM BM placements 2023 stood at INR 27.67 LPA, INR 26.42 LPA and INR 24.46 LPA, respectively."
             }
           ],
-          "related_colleges": [
-            {
-              "name": "Department of Management Studies, IIT Delhi",
-              "url": "/college/department-of-management-studies-iit-delhi-hauz-khas-35998/courses/mba-pgdm-bc?utm_campaign=recowidget&utm_medium=onsite&isource=recowidget&utm_source=shiksha&utm_click=instituteClick",
-              "location": "Delhi",
-              "rank": "#4 NIRF",
-              "fees": "₹12.00 L",
-              "courses_offered": "2 courses"
-            },
-            {
-              "name": "IIM Lucknow - Indian Institute of Management",
-              "url": "/college/iim-lucknow-indian-institute-of-management-333/courses/mba-pgdm-bc?utm_campaign=recowidget&utm_medium=onsite&isource=recowidget&utm_source=shiksha&utm_click=instituteClick",
-              "location": "Lucknow",
-              "rank": "#5 NIRF",
-              "fees": "₹12.60 L",
-              "courses_offered": "2 courses"
-            },
-            {
-              "name": "IIM Ranchi - Indian Institute of Management",
-              "url": "/college/iim-ranchi-indian-institute-of-management-32728/courses/mba-pgdm-bc?utm_campaign=recowidget&utm_medium=onsite&isource=recowidget&utm_source=shiksha&utm_click=instituteClick",
-              "location": "Ranchi",
-              "rank": "#18 NIRF",
-              "fees": "₹18.90 L",
-              "courses_offered": "4 courses"
-            },
-            {
-              "name": "IIM Udaipur - Indian Institute of Management",
-              "url": "/college/iim-udaipur-indian-institute-of-management-36085/courses/mba-pgdm-bc?utm_campaign=recowidget&utm_medium=onsite&isource=recowidget&utm_source=shiksha&utm_click=instituteClick",
-              "location": "Udaipur",
-              "rank": "#21 NIRF",
-              "fees": "₹18.21 L",
-              "courses_offered": "3 courses"
-            },
-            {
-              "name": "Masters' Union",
-              "url": "/college/masters-union-gurgaon-101727/courses/mba-pgdm-bc?utm_campaign=recowidget&utm_medium=onsite&isource=recowidget&utm_source=shiksha&utm_click=instituteClick",
-              "location": "Gurgaon",
-              "fees": "₹28.48 L",
-              "courses_offered": "5 courses"
-            },
-            {
-              "name": "Management Development Institute",
-              "url": "/college/management-development-institute-gurgaon-4223/courses/mba-pgdm-bc?utm_campaign=recowidget&utm_medium=onsite&isource=recowidget&utm_source=shiksha&utm_click=instituteClick",
-              "location": "Gurgaon",
-              "rank": "#9 NIRF",
-              "fees": "₹18.67 L",
-              "courses_offered": "6 courses"
-            },
-            {
-              "name": "IIM Kozhikode - Indian Institute of Management",
-              "url": "/college/iim-kozhikode-indian-institute-of-management-20188/courses/mba-pgdm-bc?utm_campaign=recowidget&utm_medium=onsite&isource=recowidget&utm_source=shiksha&utm_click=instituteClick",
-              "location": "Kozhikode",
-              "rank": "#3 NIRF",
-              "fees": "₹14.00 L",
-              "courses_offered": "6 courses"
-            },
-            {
-              "name": "IIM Shillong - Indian Institute of Management",
-              "url": "/college/iim-shillong-indian-institute-of-management-23700/courses/mba-pgdm-bc?utm_campaign=recowidget&utm_medium=onsite&isource=recowidget&utm_source=shiksha&utm_click=instituteClick",
-              "location": "Shillong",
-              "rank": "#38 NIRF",
-              "fees": "NA",
-              "courses_offered": "1 course"
-            },
-            {
-              "name": "Faculty of Management Studies, University of Delhi",
-              "url": "/college/faculty-of-management-studies-university-of-delhi-malka-ganj-28361/courses/mba-pgdm-bc?utm_campaign=recowidget&utm_medium=onsite&isource=recowidget&utm_source=shiksha&utm_click=instituteClick",
-              "location": "Delhi",
-              "rank": "#12 Outlook",
-              "fees": "₹2.43 L",
-              "courses_offered": "1 course"
-            },
-            {
-              "name": "IIM Calcutta - Indian Institute of Management",
-              "url": "/college/iim-calcutta-indian-institute-of-management-joka-kolkata-20190/courses/mba-pgdm-bc?utm_campaign=recowidget&utm_medium=onsite&isource=recowidget&utm_source=shiksha&utm_click=instituteClick",
-              "location": "Kolkata",
-              "rank": "#7 NIRF",
-              "fees": "₹25.00 L",
-              "courses_offered": "2 courses"
-            }
-          ],
+          "related_colleges": [],
           "table_of_contents": [
             "Importance of MBA",
             "MBA for Defence Personnel: Career Prospects",
